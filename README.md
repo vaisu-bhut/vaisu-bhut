@@ -136,9 +136,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaisu-bhut&theme=rogue&hide_border=true"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Thanks+for+stopping+by!;Happy+coding!+🚀"/>
-</p>
